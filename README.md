@@ -177,7 +177,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Frameworks
 
-- [next.js](https://github.com/zeit/next.js) - The React Framework
+- [next.js](https://github.com/vercel/next.js) - The React Framework
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
 - [react-admin](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
 - [remix](https://remix.run/) - Finally, a killer React framework from the creators of React Router
@@ -223,7 +223,7 @@ A collection of awesome things regarding the React ecosystem.
 - [trunx](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
 - [tailwind-react-ui](https://github.com/emortlock/tailwind-react-ui) - React utility component primitives & UI framework for use with Tailwind CSS
 - [tails-ui](https://github.com/knipferrc/tails-ui) - Clean UI based on tailwindcss
-- [zeit-ui/react](https://github.com/zeit-ui/react) - Modern and minimalist React UI library
+- [geist-org/react](https://github.com/geist-org/react) - Modern and minimalist React UI library, originating from Vercel's design
 - [elastic ui framework](https://github.com/elastic/eui) - The Elastic UI Framework is a collection of React UI components for quickly building user interfaces at Elastic.
 
 ##### React Awesome Components
@@ -520,7 +520,6 @@ A collection of awesome things regarding the React ecosystem.
 - [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 - [Introduction to React Native: Building iOS Apps with JavaScript](http://www.appcoda.com/react-native-introduction/)
 - [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
-- [Gesture detection in React Native – fixing unexpected panning](http://blog.lum.pe/gesture-detection-in-react-native-fixing-unexpected-panning/)
 - [Digital Smart Mirror lab with React Native](http://atticuswhite.com/blog/react-native-smart-mirror-lab/)
 - [The Beauty Of React Native: Building Your First iOS App With JavaScript (Part 1)](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
 - [The Beauty Of React Native: Building Your First iOS App With JavaScript (Part 2)](https://www.smashingmagazine.com/2016/04/how-to-build-your-first-ios-app-with-javascript/)
